@@ -1,0 +1,350 @@
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@700&display=swap');
+/* font-family: 'Montagu Slab', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+/* font-family: 'Righteous', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@700&display=swap');
+/* font-family: 'Cormorant Upright', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&display=swap');
+/* font-family: 'Open Sans Condensed', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+/* font-family: 'Reggae One', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@500&display=swap');
+/* font-family: 'Cormorant Upright', serif; */
+
+/* fonts */
+.bg-red{
+    background-color: #DF2E2E;
+}
+.logo{
+    height: 40px;
+    float: left;
+    margin-top: 5px;
+}
+.nav-item{
+    padding: 0 10px;
+}
+.navbar-dark{
+    font-weight: bold;
+    font-family: 'montagu_slab';
+}
+.acme{
+    font-family: 'Montagu Slab', serif;
+    float: left;
+    margin-top: 5px;
+    color: #ffffff;
+}
+.right{
+    float: right;
+}
+.right ul li{
+    display: inline-block;
+}
+ul li{
+    background-color: transparent;
+    border-radius: 0;
+}
+ul li:hover{
+    background-color:#2C2E43;
+    border-radius: 10px;
+}
+.banner img{
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+
+.banner-head{
+    position: absolute;
+    font-family: 'Righteous', cursive;
+    margin-top: 30px;
+    font-size: 60px;
+    color: black;
+    top: 80px;
+}
+.banner-cap{
+    position: absolute;
+    top: 265px;
+    font-size: 20px;
+    color: white;  
+}
+
+/* buttons */
+
+.my-btn{
+    position: absolute;
+    top: 380px;
+    color: #ffffff !important;
+    border: 1px solid #ffffff !important;
+    padding: 6px 35px !important;
+    font-weight: bold !important;
+}
+.my-btn:hover{
+    border: 1px solid #FF5151 !important;
+    background-color: #FF5151;
+    color: #000 !important;
+}
+.my-btn2{
+    position: absolute;
+    top: 245px;
+    right: 30px;
+    color: #ffffff !important;
+    border: 1px solid #17a2b8 !important;
+    padding: 6px 20px !important;
+    font-weight: bold !important;
+}
+.my-btn2:hover{
+    background-color: #17a2b8 !important;
+    border: 1px solid #17a2b8 !important;
+    color: #000 !important;
+}
+.my-btn3{
+    top: 245px;
+    right: 30px;
+    color: #000000 !important;
+    background-color: #A8ECE7 !important;
+    border: 1px solid #17a2b8 !important;
+    padding: 6px 20px !important;
+    font-weight: bold !important;
+    margin-left: 34px;
+}
+.my-btn3:hover{
+    background-color: #B5FFD9 !important;
+    border: 1px solid #17a2b8 !important;
+    color: #000 !important;
+}
+
+/* buttons */
+
+.top-260{
+    top: 260px;
+}
+.sub-head{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.caption{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.7;
+}
+.head{
+    font-family: 'Righteous', cursive;
+}
+.card{
+    background-color: black !important;
+    border: 1px solid white !important;
+    box-shadow: 3px 3px 6px 0px grey;;
+}
+.num{
+    color: white;
+}
+.card-head{
+    text-align: center;
+    font-family: 'Cormorant Upright', serif;
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+}
+.card-text{
+    color: white;
+    text-align: center;
+}
+.group-img{
+    height: 600px;
+    width: 100%;   
+}
+.blur-box{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    background-color: #19191a7d;
+    top: 48px; 
+}
+.text-right{
+    text-align: right;
+}
+.white{
+    color: white;
+}
+.para{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+}
+.bg-black{
+    background-color: black;
+}
+.card-img{
+    height:320px;
+}
+.red{
+    color: #DF2E2E;
+}
+.second-container{
+    width:80%;
+    margin-left: 240px;
+    margin-right: 0;
+    border-radius: 5px;
+}
+.bg-pink{
+    background-color: #daaaaa;
+}
+.size-60{
+    font-size: 60px;
+}
+.pos-absol{
+    position: absolute;
+    top: 60px;
+    left: -20px;
+}
+.laptop-lady{
+    width: 75%;
+    border-radius: 5px;
+}
+.icon-bar ul li{
+    display: inline-block;
+    margin-left: 38px;
+}
+.icon{
+    height: 30px;
+}
+a:hover{
+    text-decoration: none !important;
+}
+
+/* about */
+
+.blur-box2{
+    width: 100%;
+    height: 535px;
+    background-color: #0000005e;
+    position: absolute;
+    top: 65px;
+}
+.performance img{
+    width: 50px;
+}
+.sea-green{
+    color: #a3ddcb;
+}
+.couple-image{
+    width: 75%;
+    border-radius: 5px;
+}
+.pos-absol-2{
+    position: absolute;
+    top: 80px;
+    left: -42px;
+}
+.intro-img{
+    border-radius: 50%;
+    margin-left: 34%;
+    height: 170px;
+}
+.intro-text{
+    font-family: 'Reggae One', cursive;
+}
+.need-help{
+    background-image: url('../images/laptop-footer.jpg');
+    background-position: center;
+    background-size: 100% 600px;
+    height: 600px;
+    width: 100%;
+}
+.foot-ban{
+    color: #e2979c;
+    font-size: 60px;
+}
+
+/* contact */
+
+.banner-2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),#009688), url(../images/office-ph.jpg);
+    background-position: center;
+    background-size: 100% 670px;
+    width: 100%;
+    height: 670px;
+}
+.margin-120{
+    margin-top: 120px;
+}
+.green-box{
+    width: auto;
+    padding: 10px;
+    box-shadow: 4px 4px 10px #39A388;
+    float: left;
+}
+.chat-box{
+    height: 40px;
+    width: 40px;
+    margin-left: 100px;
+}
+input{
+    width: 90%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+input:hover{
+    border: 2px solid;
+}
+#message{
+    height: 80px;
+}
+#submit{
+    background-color: rgb(240, 62, 62);;
+    width: 70px;
+    height: 30px;
+    margin-top: 20px;
+    border: none;
+    color: #ffffff;
+}
+#submit:hover{
+    background-color: red;
+    border: none;
+}
+
+/* donate */
+
+.banner-3{
+    background-image: linear-gradient(rgba(0 0 0 / 24%),#343636), url(../images/covid.jpeg);
+    background-position: center;
+    background-size: 100% 670px;
+    width: 100%;
+    height: 600px;
+}
+.sub-title{
+    font-family: 'Cormorant Upright', serif;
+}
+.donate-box{
+    border: 2px solid black;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.selection{
+    background-color: #FF5F7E;
+    margin: 27px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.selection:hover{
+    background-color: #FF96AD;
+}
+.selection a:hover{
+    color: black;
+}
+
+/* shop */
+
+.pad{
+    padding-top: 120px;
+    padding-bottom: 45px;
+}
+.img-tent{
+    border-radius: 10px;
+    width: 100%;
+    height: 400px;
+}

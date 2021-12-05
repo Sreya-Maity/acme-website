@@ -1,0 +1,49 @@
+@media only screen and (max-width: 400px){
+    .my-btn{
+        margin-top: 85px !important;
+    }
+    .my-btn2{
+        margin-top: 80px;
+    }
+    .pos-absol{
+        top: 180px;
+        left: -5px;
+    }
+    .second-container{
+        margin-left: 70px;
+    }
+    .laptop-lady{
+        height: 150px;
+    }
+    .head{
+        font-size: 30px;
+    }
+    .banner-head{
+        font-size: 50px;
+    }
+    .blur-box2{
+        bottom: 36px;
+    }
+    .banner-cap{
+        top: 280px;
+    }
+    .p-text{
+        font-size: 10px;
+    }
+    .couple-image{
+        width: 40%;
+        height: 300px;
+    }
+    .pos-absol-2{
+        top: 65px;
+        left: 0px;
+    }
+    .green-box{
+        margin-top: -100px;
+        color: white;
+    }
+    .icon-bar ul li{
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+}
